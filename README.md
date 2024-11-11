@@ -1,1 +1,1 @@
-# freescout
+# freescout 1.0
